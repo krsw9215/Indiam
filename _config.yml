@@ -48,7 +48,7 @@ social-links:
 #
 enable:
   app_icon: true
-  smart_app_banner: true
+  smart_app_banner: false
 
 #
 # Device
