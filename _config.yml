@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Indiam # REQUIRED - Enter your app name
+  ios_id: 1123363199 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: jp.landingapps.indiam # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: The Math Game # Optional
+marketing_desc: This app is very fun Math Game! Catch the ball to calculate number. Calculate with the same colors makes combo! Use four arithmetic operations to clear fast.
 
 #
 # Social Links
@@ -35,8 +35,8 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 #
 social-links:
   github:
-  facebook:
-  twitter:
+  facebook:https://www.facebook.com/IndiamGame/
+  twitter:https://twitter.com/IndiamGame
   pinterest:
   instagram:
   email:
@@ -76,8 +76,9 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Indiam - The Math Game # Optional - Enter your site title
+description: This app is very fun Math Game! Catch the ball to calculate number. Calculate with the same colors makes combo! Use four arithmetic operations to clear fast.
+ # Optional - Enter your site description
 
 #
 # Google Analytics
